@@ -22,5 +22,12 @@ print("Predicted value for given area is ",p)
 ##plt.show()
 print("Coefficient of linear  regression is: ",reg.coef_)
 print("Intercept of linear regression is: ",reg.intercept_)
+print("Supplying csv file of areas")
+d=pd.read_csv("areas.csv")
+#print(d.head(10))
+m=reg.predict(d)
+d['prices']=m
+print(d.head(13))
+d.to_csv("House_price_pred.csv")
 
 
