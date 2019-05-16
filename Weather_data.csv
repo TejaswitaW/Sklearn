@@ -1,0 +1,16 @@
+date ,city ,temperature,humidity
+2/5/2018,New York,10,45
+4/5/2018,New York,8,47
+6/5/2018,New York,11,50
+7/5/2018,New York,7,54
+9/5/2018,New York,9,55
+2/5/2018,Beijing,23,77
+4/5/2018,Beijing,26,75
+6/5/2018,Beijing,27,76
+7/5/2018,Beijing,21,72
+9/5/2018,Beijing,25,69
+2/5/2018,Mumbai,35,88
+4/5/2018,Mumbai,34,86
+6/5/2018,Mumbai,33,82
+7/5/2018,Mumbai,29,83
+9/5/2018,Mumbai,30,84
